@@ -1,0 +1,7 @@
+{:source-paths ["src"]
+:deps {
+soda-ash                             {:mvn/version "0.83.0"}
+com.degel/iron {:mvn/version "0.4.0"}
+
+}
+}
